@@ -1,5 +1,5 @@
 # Pre-class assignment
-The world of git and GitHub comprises much material, so we all need to have our computers ready before class.  You will be installing two programs: git and gitHub-desktop, which have an overlapping purpose but vastly different user-experience philosophies.  I am exposing you to both because one is a good gateway and the other is how things are done by the pros.  When I began using git, I used both for a while, but today I exclusively use git.  
+The world of git and GitHub comprises much material, so we all need to have our computers ready before class.  You will be installing two programs: git and gitHub-desktop, which have an overlapping purpose but vastly different user-experience philosophies.  I am exposing you to both because one is a good gateway and the other is how things are done by the pros.  When I began using git, I used both for a while, but today I exclusively use git (when I am not teaching a class on git).  
 
 Just a bit of nomenclature to start.  
 **Git** is a *command-line program* that runs on your computer that you will use to manage changes to your documents.  
