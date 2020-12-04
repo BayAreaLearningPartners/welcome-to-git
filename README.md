@@ -18,7 +18,7 @@ These definitions apply to our specific choice of tools and workflow; they are n
 A project that is under version control.  Structurally, this is a folder (a.k.a. directory) that has git superpowers because it has the hidden ".git" folder in it.  Changes made to files in a repository will be noticed by git unless they are set up to be ignored (somehting we didn't cover. search: ".gitignore") 
 
 ### commit
-A snapshot of your project at a point it time that has a description.  In GitHub Desktop, you create this by gathering a group of changes that you have made since the last commit by reviewing which boxes are checked under "changes" tab, typing out a brief description, and pressing "commit to <branch>".  
+A snapshot of your project at a point it time that has a description.  In GitHub Desktop, you create this by gathering a group of changes that you have made since the last commit by reviewing which boxes are checked under "changes" tab, typing out a brief description, and pressing "commit to *branch_name*".  
   
 ### push
 Copying the commits that you have accumulated on your repository to a repository somewhere else.  
