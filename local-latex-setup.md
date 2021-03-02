@@ -22,7 +22,7 @@ LaTeX compilation depends on a core program (TexLive) and many packages that you
 1. Open a terminal
 1. copy the following line into your terminal and press enter.
 ```
-tlmgr install latexmk exam subfiles xlop xstring cancel xcolor pgf framed amsmath multirow relsize halloweenmath bbding txfonts adjustbox standalone enumitem tabto-ltx titlesec tcolorbox pict2e xkeyval collectbox currfile filehook filemod gincltex svn-prov environ etoolbox pgf-blur collection-fontsrecommended lineno parskip
+tlmgr install latexmk exam subfiles xlop xstring cancel xcolor pgf pgfplots framed amsmath multirow relsize halloweenmath bbding txfonts adjustbox standalone enumitem tabto-ltx titlesec tcolorbox pict2e xkeyval collectbox currfile filehook filemod gincltex svn-prov environ etoolbox pgf-blur collection-fontsrecommended lineno parskip scsnowman
 ```
 
 ## Install VSCode
